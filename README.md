@@ -90,19 +90,18 @@ Also included in this material is the code from the live coding session.
     
 ## [HTML Live Coding](#html-live-coding)  
  
- In the live coding session, the tasks are:  
+ In the live coding session, you apply what you learned above and prepare some for the next lesson. The tasks are:  
+ 
  1. Create a project folder with an index.html skeleton file, a CSS subfolder, and a blank styles.css file  
  2. Add meta data elements to the head for title, description, [icon](https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website), and stylesheet  
  3. Add elements for a title and subtitle such that the title has larger font size than the subtitle  
  4. Below the subtitle, add three links; the links should be stacked vertically, not horizontally; each link should take the user to one of your favorite websites  
  5. Above the title, add two images side-by-side; one image should display content from an absolute path and the other a relative path  
- 6. 
- 7.
- 8. 
- 9.
- 10.
- 11.
- 12.
- 13.
- 14.
- 15.
+ 6. Add three elements that take in an input; one must be text and the other two some other input type but not the same as the others   
+ 7. Add two buttons below the input, one disbaled and the other enabled   
+ 8. Add a map that displays your hometown 
+ 9. Add an element that wraps two other elements, and inside of each of those two elements are three elements (9 elements total)  
+ 10. Add an element on the left side of your page that takes 100% of the page width
+ 11. Add a `div` that is editable  
+ 12. Write two CSS classes, one for each button; when you apply them to the HTML buttons, one class should make the disable button look disabled and the other class make the enabled button look enabled  
+
