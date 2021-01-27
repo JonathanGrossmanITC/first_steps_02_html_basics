@@ -16,7 +16,7 @@ Also included in this material is the code from the live coding session.
 
 ## [HMTL Tag Types](#html-tag-types)  
  - [Tag syntax](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)  
- - [Tag types](https://www.w3schools.com/tags/) for content  
+ - [Tag types](https://www.w3schools.com/tags/)  
  - Which content tags to use in which situation   
     -- [metadata](https://html.com/document/metadata/) tags  
     -- [`body`](https://www.w3schools.com/tags/tag_body.asp)  
