@@ -102,7 +102,7 @@ With some knowledge and resources in hand, now you are ready for live coding. In
  7. Add two buttons below the input, one disbaled and the other enabled   
  8. Add a map that displays your hometown 
  9. Add an element that wraps two other elements, and inside of each of those two elements are three elements (9 elements total)  
- 10. Add an element on the left side of your page that takes 100% of the page width
- 11. Add a `div` that is editable  
+ 10. Add a `div` element on the left side of your page that takes 100% of the page width and that is editable
+ 11. Add an [HTML comment](https://www.tutorialrepublic.com/faq/how-to-write-comments-in-html.php) that apologizes for the poor styling  
  12. Write two CSS classes, one for each button; when you apply them to the HTML buttons, one class should make the disable button look disabled and the other class make the enabled button look enabled  
 
