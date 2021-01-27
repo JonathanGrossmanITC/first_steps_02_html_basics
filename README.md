@@ -71,6 +71,7 @@ Also included in this material is the code from the live coding session.
     -- Can use absolute or relative path    
     -- Absolute path links to an external source    
     -- Relative path links to internal source    
+    -- Use the `<a>` tag to [link to other HTML pages in your project](https://www.w3schools.com/html/html_links.asp) by setting the `src` attribute equal to the relative path  
   - You will see in code examples online use of the `style` attribute    
     -- The `style` attribute allows for setting an HTML element's style (called inline styling)    
     -- Do not to use this as your primary way of styling your web applications because it can be difficult to maintain    
