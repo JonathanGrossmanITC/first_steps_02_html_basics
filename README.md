@@ -90,7 +90,7 @@ Also included in this material is the code from the live coding session.
     
 ## [HTML Live Coding](#html-live-coding)  
  
- In the live coding session, you apply what you learned above and prepare some for the next lesson. The tasks are:  
+With some knowledge and resources in hand, now you are ready for live coding. In the live coding session, apply what you learned above. As an extra challenge, the last task asks you to do something you haven't yet learned. The tasks are:  
  
  1. Create a project folder with an index.html skeleton file, a CSS subfolder, and a blank styles.css file  
  2. Add meta data elements to the head for title, description, [icon](https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website), and stylesheet  
