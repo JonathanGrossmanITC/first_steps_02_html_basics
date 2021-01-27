@@ -80,6 +80,13 @@ Also included in this material is the code from the live coding session.
     -- Examples: `onchange`, `onclick`, `oncopy`, `ondrag`, `onsubmit`  
     -- When you learn JavaScript, it is better that you not use these  
     -- Instead, use JavaScript code to listen for events instead of an HTML attribute for code that is easier to read and maintain  
-  
+  - Examples of attributes use cases to get you thinking:  
+    -- [Spell check in forms](https://www.tutorialrepublic.com/faq/how-to-disable-spell-checking-in-html-forms.php)
+    -- [How to make a `div` editable](https://www.tutorialrepublic.com/faq/how-to-make-a-div-element-editable-in-html.php)
+    -- [How to remove bullets from list](https://www.tutorialrepublic.com/faq/how-to-create-an-unordered-list-without-any-bullets-in-html.php)
+    -- [Placeholder in select dropdown](https://www.tutorialrepublic.com/faq/how-to-make-a-placeholder-for-a-select-box-in-html.php)
+    -- [How to disable a button](https://www.w3schools.com/tags/att_button_disabled.asp)
+  - You will use JavaScript to change attributes dynamically
+    
 ## [HTML Live Coding](#html-live-coding)  
  
